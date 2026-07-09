@@ -1,4 +1,4 @@
-—// agents.js — L'equipe d'agents IA de MOUGNIERTECH (1 appel Claude, 6 roles).
+// agents.js - Equipe d'agents IA de MOUGNIERTECH (1 appel Claude, 6 roles).
 import Anthropic from "@anthropic-ai/sdk";
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
