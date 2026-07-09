@@ -1,0 +1,1 @@
+{"name":"mougniertech-ia","version":"1.0.0","description":"Systeme IA 24/7 de MOUGNIERTECH : recoit les demandes clients, fait travailler l'equipe d'agents IA, prepare des brouillons a valider par Eric.","type":"module","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=20"},"dependencies":{"@anthropic-ai/sdk":"^0.65.0","express":"^4.21.2"}}
